@@ -775,6 +775,30 @@ Prefab:
       propertyPath: m_Name
       value: Basketball Court
       objectReference: {fileID: 0}
+    - target: {fileID: 400024, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.673032
+      objectReference: {fileID: 0}
+    - target: {fileID: 400024, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400024, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400024, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.0564e-10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300010, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 07e0c74e40f4c4e4cbfd732ef6b58066, type: 2}
+    - target: {fileID: 2300002, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 07e0c74e40f4c4e4cbfd732ef6b58066, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
   m_IsPrefabAsset: 0
