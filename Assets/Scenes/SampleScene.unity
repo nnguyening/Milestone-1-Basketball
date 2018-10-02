@@ -528,7 +528,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -0.26
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
       propertyPath: m_LocalPosition.z
@@ -777,19 +777,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400024, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.673032
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 400024, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.8
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 400024, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.8
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 400024, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.0564e-10
+      value: 4.2551e-10
       objectReference: {fileID: 0}
     - target: {fileID: 2300010, guid: 50a0855d1c3a3e34c8d6ce52b81b6247, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -885,7 +885,7 @@ SphereCollider:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1208868000}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 0f9c773615d753e47a3da3b1136b228d, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
